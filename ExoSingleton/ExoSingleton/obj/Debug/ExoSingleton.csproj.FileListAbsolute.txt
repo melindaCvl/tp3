@@ -1,0 +1,7 @@
+C:\Users\cherr_000\source\repos\ExoSingleton\ExoSingleton\bin\Debug\ExoSingleton.exe.config
+C:\Users\cherr_000\source\repos\ExoSingleton\ExoSingleton\bin\Debug\ExoSingleton.exe
+C:\Users\cherr_000\source\repos\ExoSingleton\ExoSingleton\bin\Debug\ExoSingleton.pdb
+C:\Users\cherr_000\source\repos\ExoSingleton\ExoSingleton\obj\Debug\ExoSingleton.csprojAssemblyReference.cache
+C:\Users\cherr_000\source\repos\ExoSingleton\ExoSingleton\obj\Debug\ExoSingleton.csproj.CoreCompileInputs.cache
+C:\Users\cherr_000\source\repos\ExoSingleton\ExoSingleton\obj\Debug\ExoSingleton.exe
+C:\Users\cherr_000\source\repos\ExoSingleton\ExoSingleton\obj\Debug\ExoSingleton.pdb

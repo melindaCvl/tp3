@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExoSingleton", "ExoSingleton\ExoSingleton.csproj", "{DA22B71F-4FE3-41E3-A36E-788BA26C6189}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA22B71F-4FE3-41E3-A36E-788BA26C6189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA22B71F-4FE3-41E3-A36E-788BA26C6189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA22B71F-4FE3-41E3-A36E-788BA26C6189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA22B71F-4FE3-41E3-A36E-788BA26C6189}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9F3A36B-AC77-48A6-84F8-ABC0C52E3931}
+	EndGlobalSection
+EndGlobal
