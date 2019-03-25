@@ -1,0 +1,7 @@
+C:\Users\HackTix\source\repos\BuilderProjet\BuilderProjet\bin\Debug\BuilderProjet.exe.config
+C:\Users\HackTix\source\repos\BuilderProjet\BuilderProjet\bin\Debug\BuilderProjet.exe
+C:\Users\HackTix\source\repos\BuilderProjet\BuilderProjet\bin\Debug\BuilderProjet.pdb
+C:\Users\HackTix\source\repos\BuilderProjet\BuilderProjet\obj\Debug\BuilderProjet.csprojAssemblyReference.cache
+C:\Users\HackTix\source\repos\BuilderProjet\BuilderProjet\obj\Debug\BuilderProjet.csproj.CoreCompileInputs.cache
+C:\Users\HackTix\source\repos\BuilderProjet\BuilderProjet\obj\Debug\BuilderProjet.exe
+C:\Users\HackTix\source\repos\BuilderProjet\BuilderProjet\obj\Debug\BuilderProjet.pdb
