@@ -1,0 +1,7 @@
+C:\Users\cherr_000\source\repos\Biscuits\Biscuits\bin\Debug\Biscuits.exe.config
+C:\Users\cherr_000\source\repos\Biscuits\Biscuits\bin\Debug\Biscuits.exe
+C:\Users\cherr_000\source\repos\Biscuits\Biscuits\bin\Debug\Biscuits.pdb
+C:\Users\cherr_000\source\repos\Biscuits\Biscuits\obj\Debug\Biscuits.csprojAssemblyReference.cache
+C:\Users\cherr_000\source\repos\Biscuits\Biscuits\obj\Debug\Biscuits.csproj.CoreCompileInputs.cache
+C:\Users\cherr_000\source\repos\Biscuits\Biscuits\obj\Debug\Biscuits.exe
+C:\Users\cherr_000\source\repos\Biscuits\Biscuits\obj\Debug\Biscuits.pdb
